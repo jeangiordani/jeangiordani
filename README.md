@@ -5,6 +5,7 @@
 **Sobre mim...**
 
 - 🌱 Sou estudante de sistemas de informação **@ufsm**
+- 👨‍💻 Trabalho como desenvolvedor **@tcheturbo**
 - 📫 Contato: jeangiordani290@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeangiordani&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
