@@ -4,7 +4,7 @@
 
 **Sobre mim...**
 
-- 👨‍💻 Trabalho como desenvolvedor **@tcheturbo**
+- 👨‍💻 Trabalho como desenvolvedor **@sicredi**
 - 📫 Contato: jeangiordani290@gmail.com
 
 
